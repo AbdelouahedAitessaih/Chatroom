@@ -18,7 +18,6 @@ const Navbar = () => {
     <li><a href="#">Login</a></li>
     <li><a href="#">Sign Up</a></li>
     <li><a href="#">Log out</a></li>
-    <li><a href="mobile.html">Mobile</a></li>
   </ul>   
   </>
   )

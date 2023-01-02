@@ -16,7 +16,7 @@ function App() {
         <Navbar/>
           <Routes>
             <Route path='/' element={<Home/>} />
-            <Route path='/chat' element={<Chat/>} />s
+            <Route path='/chat/:room_id/:room_name' element={<Chat/>} />s
           </Routes>
       </UserContext.Provider>
     </div>
